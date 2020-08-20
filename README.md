@@ -2,9 +2,12 @@
 
 ## Novas Funcionalidades
 
-> Range#cover? aceita o objeto Range como argumento.
+> Range#cover? aceita o objeto Range como argumento;
 
-> adds Enumerable#filter as alias of Enumerable#select.
+> adds Enumerable#filter as alias of Enumerable#select;
 
-> adds support for non-ASCII capital letter.
+> adds support for non-ASCII capital letter;
 
+> adds write_timeout to Net::HTTP;
+
+> adds Dir#each_child & Dir#children instance
